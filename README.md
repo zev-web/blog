@@ -11,4 +11,3 @@
 * mongoDB
 * mongoose
 * swig
-"# blog" 
